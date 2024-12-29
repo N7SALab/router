@@ -1,0 +1,2 @@
+# automon
+git+https://github.com/TheShellLand/automonisaur.git
