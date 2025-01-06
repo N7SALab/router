@@ -88,6 +88,7 @@ def main():
     HAR_PATH_FILES_LOADED = load_har_files(HAR_PATH_FILES=HAR_PATH_FILES)
     HAR_DATA_URLS = parsed_har_urls(HAR_PATH_FILES_LOADED=HAR_PATH_FILES_LOADED)
     HAR_DATA_DOMAINS = parsed_har_domains(HAR_DATA_URLS=HAR_DATA_URLS)
+    HAR_DATA_DOMAINS_UNIQUE = sorted(set([x['har_domain'] for x in HAR_DATA_DOMAINS]))
 
     df = pandas.DataFrame(HAR_DATA_DOMAINS)
     df2 = pandas.DataFrame(HAR_PATH_FILES_LOADED)
