@@ -69,6 +69,7 @@ ports.ubuntu.com
 
 # GITHUB
 ghcr.io
+github.com
 
 # DOCKER
 docker.io
