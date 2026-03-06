@@ -1,4 +1,3 @@
-
 # DEEPLEARNING
 ollama.ai
 ollama.com
@@ -40,7 +39,22 @@ streetviewpixels-pa.googleapis.com
 youtube.com
 music.youtube.com
 music.google.com
-googlevideo.com
+#googlevideo.com
+
+#UBER
+uber.com
+m.uber.com
+auth.uber.com
+csp.uber.com
+tc2.uber.com
+payments.uber.com
+tags.tiqcdn.com
+www.cdn-net.com
+www.cdn-path.com
+tiles.mapbox.com
+d1a3f4spazzrp4.cloudfront.net
+d1w2poirtb3as9.cloudfront.net
+d3i4yxtzktqr9n.cloudfront.net
 
 # DISNEY
 #disneyplus.com
@@ -56,8 +70,9 @@ europe.olemovienews.com
 rophim.me
 
 # INSTAGRAM
-instagram.com
 cdninstagram.com
+fbcdn.net
+instagram.com
 instantmessaging-pa.googleapis.com
 
 # AMAZON
